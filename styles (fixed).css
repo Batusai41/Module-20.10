@@ -2294,7 +2294,7 @@ img {
 
     .button2 {
         width: 338px;
-        height: 51;
+        height: 51px;
         margin-left: 5%;
         margin-top: 35%;
         font-family: 'Nunito Sans';
@@ -2307,7 +2307,7 @@ img {
 
     .button3 {
         width: 338px;
-        height: 51;
+        height: 51px;
         margin-left: -11%;
         margin-top: 60%;
         font-family: 'Nunito Sans';
@@ -2323,7 +2323,7 @@ img {
         top: -1%;
         left: 6%;
         width: 338px;
-        height: 51;
+        height: 51px;
         font-family: 'Nunito Sans';
         font-weight: 400;
         font-size: 15px;
